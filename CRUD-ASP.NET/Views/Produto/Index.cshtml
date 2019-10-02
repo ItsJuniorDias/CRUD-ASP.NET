@@ -1,0 +1,25 @@
+@using ECommerce.Models
+@model List<Produto>
+
+
+@{
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+    <table class="table table-hover">
+        @foreach(var produto in Model)
+        {
+        <tr>
+            <td>@produto.IdProduto</td>
+            <td>@produto.Nome</td>
+            <td>@produto.Descricao</td>
+            <td>@produto.Valor</td>
+        <td>
+             <a class="btn-sm btn-danger" href="/produto/delete/@produto.IdProduto"> Apagar </a>
+             <a class="btn-sm btn-primary" href="/produto/Update/@produto.IdProduto"> Editar </a>
+        </td>
+        </tr>
+        }
+    </table>
+    
+    <a class="btn btn-primary" href="/produto/create"> Adicionar </a>
