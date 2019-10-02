@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAQ01LAB05\\ecommerce\\ECommerce.csproj": {}
+    "C:\\Users\\User\\Desktop\\ecommerce\\ECommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAQ01LAB05\\ecommerce\\ECommerce.csproj": {
+    "C:\\Users\\User\\Desktop\\ecommerce\\ECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAQ01LAB05\\ecommerce\\ECommerce.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ecommerce\\ECommerce.csproj",
         "projectName": "ECommerce",
-        "projectPath": "C:\\Users\\MAQ01LAB05\\ecommerce\\ECommerce.csproj",
-        "packagesPath": "C:\\Users\\MAQ01LAB05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAQ01LAB05\\ecommerce\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\ecommerce\\ECommerce.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MAQ01LAB05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
