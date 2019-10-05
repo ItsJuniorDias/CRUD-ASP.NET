@@ -1,4 +1,11 @@
 # CRUD-ASP.NET
+
+## About this Project
+
+The idea of the App is:
+
+_" product registration system for an ecommerce"._
+
 ## Why?
 This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
