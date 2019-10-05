@@ -8,6 +8,6 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/alexandre-junior-23689
 
 ## Installers
 If you want to test the App in the Production mode, the installers are listed below
-- ASP.NET [Link](https://dotnet.microsoft.com/apps/aspnet) for backend.
+- ASP.NET [Link](https://dotnet.microsoft.com/apps/aspnet).
 - SQL server [Link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) for database.
 
