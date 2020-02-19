@@ -18,3 +18,14 @@ If you want to test the App in the Production mode, the installers are listed be
 - ASP.NET [Link](https://dotnet.microsoft.com/apps/aspnet).
 - SQL server [Link](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads) for database.
 
+### Installing
+
+**Cloning the Repository**
+
+```
+$ git clone https://github.com/ItsJuniorDias/CRUD-ASP.NET
+
+$ cd CRUD-ASP.NET
+```
+
+
